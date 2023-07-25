@@ -1,5 +1,7 @@
 clone application
 create a virtual environment [ e.g. virtualenv meliflask]
+activate virtual environment [e.g source meliflask/bin/activate]
 run pip install -r requirements.txt
+
 
 run python main.py
